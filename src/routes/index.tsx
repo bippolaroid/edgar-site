@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main class="max-w-7xl w-full mx-auto">
+    <main class="max-w-7xl w-full mx-auto text-white">
       <div class="md:p-18 p-9 bg-[url(/EDGR_WebAssets_Pillar-TEMP.jpg)] h-[720px] bg-cover bg-center">
         <div class="w-full flex justify-between md:justify-start gap-24 items-center">
           <a href="./">
@@ -87,7 +87,7 @@ export default function Home() {
       </div>
       <div
         id="services"
-        class="p-9 md:p-18 py-24 mx-auto grid gap-12 justify-center"
+        class="p-9 md:p-18 py-24 mx-auto grid gap-12 justify-center bg-black"
       >
         <h2 class="text-3xl font-[georgia] text-center">
           Our services include:
