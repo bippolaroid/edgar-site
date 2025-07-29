@@ -1,10 +1,10 @@
 export default function Home() {
   return (
     <main class="max-w-7xl w-full mx-auto">
-      <div class="md:p-18 p-9 bg-[url(/public/EDGR_WebAssets_Pillar-TEMP.jpg)] h-[720px] bg-cover bg-center">
+      <div class="md:p-18 p-9 bg-[url(/EDGR_WebAssets_Pillar-TEMP.jpg)] h-[720px] bg-cover bg-center">
         <div class="w-full flex justify-between md:justify-start gap-24 items-center">
           <a href="./">
-            <img width="96" src="./public/edgar.png" />
+            <img width="96" src="./edgar.png" />
           </a>
           <div class="flex gap-6">
             <a
@@ -42,7 +42,7 @@ export default function Home() {
       <div class="w-full justify-center grid border-t border-b border-neutral-800 bg-gradient-to-tl from-black to-neutral-900">
         <div class="md:flex p-9 pt-18 grid gap-12 w-full max-w-5xl mx-auto justify-center">
           <div class="w-full flex justify-center">
-            <img class="w-72 object-contain" src="./public/crow.png" />
+            <img class="w-72 object-contain" src="./crow.png" />
           </div>
           <div class="items-center md:flex">
             <div class="grid gap-12">
@@ -81,7 +81,7 @@ export default function Home() {
             </div>
           </div>
           <div class="w-full flex justify-center">
-            <img class="w-96 object-contain" src="./public/nest.png" />
+            <img class="w-96 object-contain" src="./nest.png" />
           </div>
         </div>
       </div>
@@ -95,7 +95,7 @@ export default function Home() {
         <div class="grid md:grid-cols-2 gap-24 justify-center">
           <div class="grid gap-4 justify-center">
             <div class="h-fit w-full flex justify-center">
-              <img class="object-contain w-18" src="./public/monitor.png" />
+              <img class="object-contain w-18" src="./monitor.png" />
             </div>
             <h3 class="text-xl border-b border-dotted border-neutral-800 p-4 font-bold font-sans text-center uppercase tracking-widest">
               Creative Development
@@ -109,7 +109,7 @@ export default function Home() {
           </div>
           <div class="grid gap-4 justify-center">
             <div class="h-fit w-full flex justify-center">
-              <img class="object-contain w-18" src="./public/tv.png" />
+              <img class="object-contain w-18" src="./tv.png" />
             </div>
             <h3 class="text-xl border-b border-dotted border-neutral-800 p-4 font-bold font-sans text-center uppercase tracking-widest">
               Photography/Video
@@ -179,7 +179,7 @@ export default function Home() {
           </form>
         </div>
         <div class="w-full flex justify-center md:max-w-sm">
-          <img src="./public/scroll.png" class="object-contain w-36" />
+          <img src="./scroll.png" class="object-contain w-36" />
         </div>
       </div>
     </main>
